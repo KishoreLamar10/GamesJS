@@ -5,7 +5,7 @@ This project showcases multiple small games inside a unified collection page —
 
 ### ✨ Live Demo
 
-👉 [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)  
+👉 [https://your-vercel-url.vercel.app](https://jsgames-flame.vercel.app/)  
 (Replace this link with your actual Vercel deployment link)
 
 ---
